@@ -23,6 +23,7 @@ hr {
 	padding-top: 25px;
 }
 .navbar-brand h1 {
+	font-family: sans-serif;
 	color: #000;
 	font-weight: bold;
 	font-size: 3em;
